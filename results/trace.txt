@@ -1,0 +1,64 @@
+124bc26e930f  cf39...7804
+└─ claude-code
+   └─ mcp:Notion API/API-post-search  (1 call, implicit)
+
+22b3ed9d5110  gith...IAdF
+├─ adk:supervisor
+│  └─ adk:coder
+│     └─ tool:github_list_issues  (1 call, implicit)
+└─ claude-code
+   ├─ mcp:github-mcp-server/list_issues  (1 call, implicit)
+   ├─ mcp:github-remote/list_issues  (1 call, direct)
+   ├─ mcp:github/list_issues  (1 call, implicit)
+   └─ subagent:general-purpose
+      └─ mcp:github/list_issues  (1 call, implicit)
+
+2c645bb6dfa8  ntn_...y95v
+└─ claude-code
+   ├─ mcp:Notion API/API-post-search  (1 call, implicit)
+   └─ subagent:general-purpose
+      ├─ mcp:notion/API-post-search  (1 call, implicit)
+      └─ mcp:notion/API-retrieve-page-markdown  (1 call, implicit)
+
+39ebae290f9f  AQ.A...Imsw
+└─ adk:supervisor
+   └─ adk:coder
+      └─ tool:github_list_issues  (1 call, implicit)
+
+5d265426c3a1  43bf...239a
+└─ claude-code
+   └─ mcp:github-mcp-server/list_issues  (1 call, implicit)
+
+95eba588a736  739e...2711
+└─ claude-code
+   └─ subagent:general-purpose
+      └─ mcp:github/list_issues  (1 call, implicit)
+
+c1869e3b0dbb  e261...3836
+└─ claude-code
+   ├─ mcp:github/list_issues  (1 call, implicit)
+   └─ subagent:general-purpose
+      ├─ mcp:notion/API-post-search  (1 call, implicit)
+      └─ mcp:notion/API-retrieve-page-markdown  (1 call, implicit)
+
+130 events | 23 tool calls (5 matched hook+proxy, 2 proxy-only, 15 hook-only, 0 of those linked by scan) | 15 edges | 5 risks
+  124bc26e930f implicit   1 calls  claude-code > mcp:Notion API/API-post-search
+  22b3ed9d5110 implicit   1 calls  adk:supervisor > adk:coder > tool:github_list_issues
+  22b3ed9d5110 implicit   1 calls  claude-code > mcp:github-mcp-server/list_issues
+  22b3ed9d5110 direct     1 calls  claude-code > mcp:github-remote/list_issues
+  22b3ed9d5110 implicit   1 calls  claude-code > mcp:github/list_issues
+  22b3ed9d5110 implicit   1 calls  claude-code > subagent:general-purpose > mcp:github/list_issues
+  2c645bb6dfa8 implicit   1 calls  claude-code > mcp:Notion API/API-post-search
+  2c645bb6dfa8 implicit   1 calls  claude-code > subagent:general-purpose > mcp:notion/API-post-search
+  2c645bb6dfa8 implicit   1 calls  claude-code > subagent:general-purpose > mcp:notion/API-retrieve-page-markdown
+  39ebae290f9f implicit   1 calls  adk:supervisor > adk:coder > tool:github_list_issues
+  5d265426c3a1 implicit   1 calls  claude-code > mcp:github-mcp-server/list_issues
+  95eba588a736 implicit   1 calls  claude-code > subagent:general-purpose > mcp:github/list_issues
+  c1869e3b0dbb implicit   1 calls  claude-code > mcp:github/list_issues
+  c1869e3b0dbb implicit   1 calls  claude-code > subagent:general-purpose > mcp:notion/API-post-search
+  c1869e3b0dbb implicit   1 calls  claude-code > subagent:general-purpose > mcp:notion/API-retrieve-page-markdown
+  RISK [high] shared-by-3plus-agents 22b3ed9d5110: used by 3 agents: adk:coder, claude-code, subagent:general-purpose
+  RISK [high] used-but-not-wired 124bc26e930f: used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN
+  RISK [high] used-but-not-wired 5d265426c3a1: used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN
+  RISK [high] used-but-not-wired 95eba588a736: used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN
+  RISK [high] used-but-not-wired c1869e3b0dbb: used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN

@@ -1,0 +1,647 @@
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-14T19:46:00.526568Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ac44a0fa4347dad98", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-14T19:46:05.508711Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-14T19:46:51.003838Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-14T19:46:58.421355Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016sPBGRfHxUBzsEx9jDXgR3"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-14T19:47:01.191942Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016sPBGRfHxUBzsEx9jDXgR3"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-14T19:47:07.780587Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a164ad532f546080b", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-14T19:47:12.827446Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-14T19:47:33.009835Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-14T19:47:40.088839Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-14T19:47:43.612985Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-14T19:47:51.024404Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ae10547a6c9c51fd7", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-14T19:47:56.428678Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-14T19:50:16.086999Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-14T19:50:24.410545Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011sNJ5gWXyhoeemyn3sTV1M"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-14T19:50:27.226938Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011sNJ5gWXyhoeemyn3sTV1M"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-14T19:50:31.676741Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a70db0f51987f2640", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-14T19:50:38.053031Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:37:54.818885Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:38:15.01841Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:38:47.32989Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:38:57.413196Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a6f411054864874f6", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:39:03.157752Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:40:40.536879Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:40:49.882132Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CDpghNAtg3ESTrNLHiY6Hd"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:40:51.930743Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CDpghNAtg3ESTrNLHiY6Hd"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:40:52.695434Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015qesJMPHKCGWZ9moTUJLue"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:40:52.711014Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015qesJMPHKCGWZ9moTUJLue"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:40:54.677851Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01KZ2fT9HVH1DnzTbDD4gVDd"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:40:57.893314Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01KZ2fT9HVH1DnzTbDD4gVDd"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:43:41.43074Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DT7X3h5curLB6bwvzr8tWo"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:43:42.856Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DT7X3h5curLB6bwvzr8tWo"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:43:47.290969Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_016oDG52yvy45r2goVtbhZmT"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:43:48.507178Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_016oDG52yvy45r2goVtbhZmT"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:43:49.271574Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:43:49.280677Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:44:03.299814Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QpNz7bVk6fxKuLqLnbjPPg"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:44:04.653297Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QpNz7bVk6fxKuLqLnbjPPg"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:44:05.415778Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01HBMYSW5bUXt5qLuagYmPgU"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:44:06.447727Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01HBMYSW5bUXt5qLuagYmPgU"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:44:16.337112Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01UXPmScW7f9DVMxoX94QZcf"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:44:18.37467Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01UXPmScW7f9DVMxoX94QZcf"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:44:32.520185Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01KqXYu2KwG74imLmEm59Fvw"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:44:38.682807Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01KqXYu2KwG74imLmEm59Fvw"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:44:53.570837Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01CYhyR78pPtrKceYPPt9nUs"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:44:55.009418Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01CYhyR78pPtrKceYPPt9nUs"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:45:37.872501Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01MYuuGMPPa6MdvSYecr78Jx"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:45:39.214303Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01MYuuGMPPa6MdvSYecr78Jx"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:45:43.420268Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WYAMaBxXyPjr6HNsfKzmLa"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:45:44.83831Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WYAMaBxXyPjr6HNsfKzmLa"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:45:56.229487Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01FfmhrwA2mTo4NMtM7wTuKV"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:45:57.805827Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01FfmhrwA2mTo4NMtM7wTuKV"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:46:46.511378Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01DZhdJWADFjTXczYxsfrdeY"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:46:49.193527Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01DZhdJWADFjTXczYxsfrdeY"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:46:49.950657Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0179QTeui8Br9To8sNjtyZZL"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:46:52.179234Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0179QTeui8Br9To8sNjtyZZL"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:46:52.945278Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01V5C5ADRRjMKtxDY3GJtrR2"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:46:55.985698Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01V5C5ADRRjMKtxDY3GJtrR2"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:46:56.75216Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0197MynQpAADPEpj2ruVZ5yA"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:00.558157Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0197MynQpAADPEpj2ruVZ5yA"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:47:01.328453Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018LUjRdZTBUvzTQRS8mrfj9"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:02.692586Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018LUjRdZTBUvzTQRS8mrfj9"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:47:03.457433Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01BDB8D6SKsY2i6AJ6RQEAq5"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:04.632926Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01BDB8D6SKsY2i6AJ6RQEAq5"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:47:05.391252Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CLjLmwXum2yF1DiaVpBvzL"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:06.318083Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CLjLmwXum2yF1DiaVpBvzL"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:47:11.368121Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01GksPBv7FqZDfUkQcAqENyf"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:12.933107Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01GksPBv7FqZDfUkQcAqENyf"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:47:45.118962Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0158SkvmY5JQaesNj5cDjNfN"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:45.146077Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0158SkvmY5JQaesNj5cDjNfN"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:47:48.488083Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YUiLwLb47E41KFkKn6bEBw"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:47:48.502701Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YUiLwLb47E41KFkKn6bEBw"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:47:57.538523Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a975748b3d0dc0835", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:48:02.801879Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "SessionStart", "nhi_ts": "2026-11-15T10:51:43.358529Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:51:57.885889Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:02.1273Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "ToolSearch", "tool_use_id": "toolu_016EAhedeJprgrLNwE9Ykb6V"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:02.143504Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "ToolSearch", "tool_use_id": "toolu_016EAhedeJprgrLNwE9Ykb6V"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:04.699777Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "Agent", "tool_use_id": "toolu_01XM3FQua7exUtY85XWVY1ML"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:04.826059Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "Agent", "tool_use_id": "toolu_01XM3FQua7exUtY85XWVY1ML"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:07.928459Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "mcp__github__list_issues", "tool_use_id": "toolu_01KEhL2mSReVLVrco4xVsFr2"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:08.766943Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "mcp__github__list_issues", "tool_use_id": "toolu_01KEhL2mSReVLVrco4xVsFr2"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:08.906126Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "ToolSearch", "tool_use_id": "toolu_0145wM9irYjGxM8TUyR3wDrU"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:08.914824Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "ToolSearch", "tool_use_id": "toolu_0145wM9irYjGxM8TUyR3wDrU"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:10.984279Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "mcp__notion__API-post-search", "tool_use_id": "toolu_016QTfxYCMC3m3p96X3Pzfxs"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:52:11.640339Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:11.904264Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "mcp__notion__API-post-search", "tool_use_id": "toolu_016QTfxYCMC3m3p96X3Pzfxs"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:14.228987Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "ToolSearch", "tool_use_id": "toolu_01J4YYcUyJBKuc3rLakhaUyk"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:14.238758Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "ToolSearch", "tool_use_id": "toolu_01J4YYcUyJBKuc3rLakhaUyk"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:16.24072Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "mcp__notion__API-retrieve-page-markdown", "tool_use_id": "toolu_01Hbn94GMLniv1Q8C6yNf8se"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:16.671503Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "mcp__notion__API-retrieve-page-markdown", "tool_use_id": "toolu_01Hbn94GMLniv1Q8C6yNf8se"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:52:20.448117Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "SubagentHandback", "tool_use_id": "toolu_01UFSongDAqt6RcE3wzBpBxA"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:52:20.580309Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8", "tool_name": "SubagentHandback", "tool_use_id": "toolu_01UFSongDAqt6RcE3wzBpBxA"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:52:20.598294Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"agent_id": "a6669667ca88b62d3", "agent_type": "general-purpose", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:52:20.598247Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:52:23.683514Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:53:10.625913Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:53:25.414753Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a403e1560234035fa", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:53:30.39743Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:53:56.009866Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:54:01.97166Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "af176de0eab2e1d14", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:54:06.949217Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:55:01.409963Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:55:14.755622Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a1625b5c34f0152d7", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:55:27.74817Z", "session_id": "96382b93-2ab9-4873-955c-bc6a648694f8"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:55:31.041521Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:55:42.315401Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "acee40c9160fa59ac", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:55:48.1163Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:55:53.091195Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:21.899858Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01G2EvcGhRRmyR4KF6eQ3VWe"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:21.920479Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01G2EvcGhRRmyR4KF6eQ3VWe"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:33.235867Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01Rb9DLxm7yoYNdiFzrmZW1u"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:33.251421Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01Rb9DLxm7yoYNdiFzrmZW1u"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:34.791308Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CcobPbbBVfUNqqArmXP5Ac"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:34.805808Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CcobPbbBVfUNqqArmXP5Ac"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:36.058326Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DronkpcLzFvCcF9dPUCWMR"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:36.073797Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DronkpcLzFvCcF9dPUCWMR"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:44.095561Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01UojTLxWdKN25dPykpPh1yD"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:44.112756Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01UojTLxWdKN25dPykpPh1yD"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:45.397164Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011vRiasXbx8GMun1WsaQGMr"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:45.41482Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011vRiasXbx8GMun1WsaQGMr"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:47.952436Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WeGFfN4GEviHJY7b1uefFX"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:47.967926Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WeGFfN4GEviHJY7b1uefFX"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:52.85335Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01HJ5iR9wLJvEMfXkLCKWZJB"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:52.870127Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01HJ5iR9wLJvEMfXkLCKWZJB"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:55.401559Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WEgSEH5z8cgHwmLTqscdxa"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:55.416669Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WEgSEH5z8cgHwmLTqscdxa"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:57:56.35868Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DUwdJfUJwoLLejHTZhfvfX"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:57:56.373051Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DUwdJfUJwoLLejHTZhfvfX"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:00.499123Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018uPU8W3UEqp6Ko4VXdenkj"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:00.513695Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018uPU8W3UEqp6Ko4VXdenkj"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:01.856248Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015Ye5fGUuoUrb4hmnFwvQTu"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:01.874522Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015Ye5fGUuoUrb4hmnFwvQTu"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:05.818283Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01PJ8fvmhF6ZEnpmBzegFZLP"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:30.146238Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01PJ8fvmhF6ZEnpmBzegFZLP"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:41.851975Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01Dui3F1t96YhGE6AmxivM73"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:41.868325Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01Dui3F1t96YhGE6AmxivM73"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:45.039942Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01KWYiKAkiZ2X8pW69fDCeZK"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:45.050188Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01KWYiKAkiZ2X8pW69fDCeZK"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:53.408719Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016BPiFfvnUMPuUR9JEUQxTK"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:53.424207Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016BPiFfvnUMPuUR9JEUQxTK"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T10:58:58.224207Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WpcK3b3AyUgUFLK2XqbDVK"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T10:58:58.238731Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WpcK3b3AyUgUFLK2XqbDVK"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:59:05.063948Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ac2b8b2092420e29c", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:59:10.905114Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T10:59:28.74926Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T10:59:35.593055Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a604035251d9bb7af", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T10:59:40.96579Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T11:00:30.513167Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T11:00:36.279434Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a8eda11b7861a85cb", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T11:00:43.237463Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T11:51:51.795078Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T11:52:11.471371Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01GTi6ky1m6rzJ2FW9ZprhCw"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T11:52:11.500446Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01GTi6ky1m6rzJ2FW9ZprhCw"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T11:52:13.321115Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01JrxCzXjZ8ubaAzLyUhXJty"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T11:52:13.339208Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01JrxCzXjZ8ubaAzLyUhXJty"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T11:52:18.370228Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a75a118ea16eaa82b", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T11:52:25.609814Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T11:53:10.425785Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T11:53:14.94293Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a02a2a990b2af10b3", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T11:53:25.44221Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:00:54.396566Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:01:00.359502Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a3740d6bdc4c0a8a4", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:01:06.403098Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:05:24.024721Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:05:31.171577Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_014M73Z9amQuk7R2sJHb3DBu"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:05:32.696116Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_014M73Z9amQuk7R2sJHb3DBu"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:05:43.013976Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a84cbe1a4d5d9ca8f", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:05:49.173974Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:06:13.90568Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:06:18.398602Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "acfe819ad24901cd1", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:06:24.888307Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:06:43.713075Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:06:57.871561Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YPoQywQoDpYFvCQL4W2j4s"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:06:57.88882Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YPoQywQoDpYFvCQL4W2j4s"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:07:00.115387Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01SK9USU7nh6ZRBKYMQTdqkz"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:07:00.140786Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01SK9USU7nh6ZRBKYMQTdqkz"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:07:07.375087Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a409cc8e7b1b0014f", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:07:13.371441Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "SessionStart", "nhi_ts": "2026-11-15T12:37:36.790417Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:37:39.070653Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:37:46.098748Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "Agent", "tool_use_id": "toolu_019DRWt9Dh8LaMCQ8DUDkZhp"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:37:46.243218Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "Agent", "tool_use_id": "toolu_019DRWt9Dh8LaMCQ8DUDkZhp"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:37:48.93426Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"agent_id": "a7b515074578211ea", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:37:52.740104Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:37:54.171414Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "ToolSearch", "tool_use_id": "toolu_01Wdqr5kM1M9k8VS9pQdPw3M"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:37:54.187131Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "ToolSearch", "tool_use_id": "toolu_01Wdqr5kM1M9k8VS9pQdPw3M"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:37:59.20879Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "mcp__github__list_issues", "tool_use_id": "toolu_01BqA4oH33efb8CuWtvyvVjJ"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:38:00.031176Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "mcp__github__list_issues", "tool_use_id": "toolu_01BqA4oH33efb8CuWtvyvVjJ"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:38:05.53819Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "SubagentHandback", "tool_use_id": "toolu_01DS6xRzbSvSsDh6Tw1iZvX4"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:38:05.669954Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501", "tool_name": "SubagentHandback", "tool_use_id": "toolu_01DS6xRzbSvSsDh6Tw1iZvX4"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:38:05.686149Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"agent_id": "a9c7d35e24cd1b8a9", "agent_type": "general-purpose", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:38:05.686163Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:38:09.684177Z", "session_id": "4c8d7948-1238-44a9-bc89-2a891adbe501"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:38:51.596943Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:39:55.132108Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01QreP6Ncy86KWRHpebwKwND"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:39:55.150852Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01QreP6Ncy86KWRHpebwKwND"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:40:03.815271Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0165rGexXoHJkco4QfEVunYN"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:40:03.83346Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0165rGexXoHJkco4QfEVunYN"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:40:05.649682Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01RdMsTFJ2nmXexH36kkpUMR"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:40:05.661899Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01RdMsTFJ2nmXexH36kkpUMR"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:40:34.059219Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01FApoBYbYJ7frusF98t6B7G"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:40:34.079066Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01FApoBYbYJ7frusF98t6B7G"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:41:07.053781Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_018AJK2fRpW7dnku5NZW2xWU"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:41:07.069183Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_018AJK2fRpW7dnku5NZW2xWU"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:41:07.843858Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_011BuMAh3VxJHYSazMherexM"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:47:23.931875Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_011BuMAh3VxJHYSazMherexM"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:47:37.88943Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_013ieDbxkqoUWYCh2bHiRGu1"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:47:37.907356Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_013ieDbxkqoUWYCh2bHiRGu1"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:47:40.071185Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WoDfWj46fSMUJNtUNbMXHk"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:47:40.088026Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WoDfWj46fSMUJNtUNbMXHk"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:47:46.274094Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a52c55b1bf31fa5a3", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:47:52.097518Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "SessionStart", "nhi_ts": "2026-11-15T12:51:18.622856Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:51:25.929774Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:51:31.653423Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591", "tool_name": "ToolSearch", "tool_use_id": "toolu_01HUsEaMg6ZMwm12yhvSMinV"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:51:31.67188Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591", "tool_name": "ToolSearch", "tool_use_id": "toolu_01HUsEaMg6ZMwm12yhvSMinV"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:51:34.774967Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591", "tool_name": "mcp__github-remote__list_issues", "tool_use_id": "toolu_01UGrQktFiSmZAtjFkCm7P63"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:51:35.929226Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591", "tool_name": "mcp__github-remote__list_issues", "tool_use_id": "toolu_01UGrQktFiSmZAtjFkCm7P63"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:51:39.74219Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:51:54.209987Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:51:58.780552Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a2663bcfcc49a467e", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:52:05.226903Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:52:11.451146Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:52:33.888471Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01SX6MsPpeLBLCwJPvFm37SS"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:52:33.911812Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01SX6MsPpeLBLCwJPvFm37SS"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:52:41.535394Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01EtXajpc1kLdtSc6RehmUXb"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:52:41.551962Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01EtXajpc1kLdtSc6RehmUXb"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:53:35.35086Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01CfiCFb2hoVhbZcik6MzLMc"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:53:35.367805Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01CfiCFb2hoVhbZcik6MzLMc"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:53:38.006716Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01FDr537i5eKhPgFWGmxY2Bb"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:53:38.026235Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01FDr537i5eKhPgFWGmxY2Bb"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:53:39.258215Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_013paeMsWWs2XdaAUtBkX3JX"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:53:39.275556Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_013paeMsWWs2XdaAUtBkX3JX"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:53:41.861802Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01He4ith1NTe2cwZXByMC7J5"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:53:41.878952Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01He4ith1NTe2cwZXByMC7J5"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:53:43.128384Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QnunnDeHz3JEGK19qaLJof"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:53:43.144667Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QnunnDeHz3JEGK19qaLJof"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:53:59.114427Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01VFGPrH1ZdZJ5FAPxc9Hp2w"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:53:59.19143Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01VFGPrH1ZdZJ5FAPxc9Hp2w"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:54:14.779312Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WecxeeAYea1SEXSTZJQkUn"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:54:14.798246Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WecxeeAYea1SEXSTZJQkUn"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:54:27.059158Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WSrZuPqDWJGcCq38qgGMFk"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:54:27.077861Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WSrZuPqDWJGcCq38qgGMFk"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:54:27.851382Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01QZhcRPq9ZsjQWvTtFy9k4Y"}
+{"agent_id": "a5a7a788b5f8672c3", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:54:42.536495Z", "session_id": "423b6e2f-f023-47d7-b8a7-0404c058b591"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:54:53.970453Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01QZhcRPq9ZsjQWvTtFy9k4Y"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:55:09.200728Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Ku5p7CYGjU1DSTFtKwLCSL"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:55:09.218678Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Ku5p7CYGjU1DSTFtKwLCSL"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:55:16.537115Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ad3a09ee0099174d5", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:55:22.936659Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:55:53.096083Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:56:01.18169Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "afd98a9777ef35b63", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:56:06.89073Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T12:59:15.929682Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T12:59:25.296644Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01HnCQKo1jQGDtQPuwgLMVpz"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T12:59:25.315954Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01HnCQKo1jQGDtQPuwgLMVpz"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T12:59:31.236286Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a24359c8f6ecf0391", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T12:59:37.090073Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T13:00:14.025117Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T13:00:25.43652Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ac2b1d1d2d01ad80f", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T13:00:35.172323Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T13:00:44.160221Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:01:42.149634Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011Y15QH9JRqkCiP6MXPWqgZ"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:01:42.168324Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011Y15QH9JRqkCiP6MXPWqgZ"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:01:43.23259Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0191P37yRzSY7myytzm8a6gs"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:01:43.252091Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0191P37yRzSY7myytzm8a6gs"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:01:45.083635Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01TWH45X82YTPpjKBwnbDhDQ"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:01:45.102064Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01TWH45X82YTPpjKBwnbDhDQ"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:01:51.486666Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WGve5cV55rxu9XnJpWvkTn"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:01:51.505335Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WGve5cV55rxu9XnJpWvkTn"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:01:52.280042Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01VY8mAjrz66R9r4PvNFMksr"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:52:35.304314Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01VY8mAjrz66R9r4PvNFMksr"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:52:53.846238Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01FE8jt77ZcUBbzsDTwPjFuj"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:52:53.866499Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01FE8jt77ZcUBbzsDTwPjFuj"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:52:54.644912Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_018czpHUxec6GZjxth6duBEU"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:53:09.160935Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_018czpHUxec6GZjxth6duBEU"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:53:18.316549Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016iZQsagVqNshpVY4m6ZD6Y"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:53:18.34024Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016iZQsagVqNshpVY4m6ZD6Y"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:53:21.675913Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01GwD7AkxKvKr8YqUKNgBvNH"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:53:21.694222Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01GwD7AkxKvKr8YqUKNgBvNH"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:53:34.158614Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_0151KgCcpmcAAmHhgaeZ2UR6"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:53:34.174704Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_0151KgCcpmcAAmHhgaeZ2UR6"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T13:53:44.354249Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a1ee2cde5e7a1a55d", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T13:53:50.720176Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T13:55:32.391537Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:08.49241Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01UCig21J8j2JrHCeEiP4Via"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:08.511231Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01UCig21J8j2JrHCeEiP4Via"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:37.706142Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_011zkeUqf2PnBgVNURhwRkqN"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:37.725819Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_011zkeUqf2PnBgVNURhwRkqN"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:38.48603Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01P2VCcreitEr1LcJQp6wUZo"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:38.500158Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01P2VCcreitEr1LcJQp6wUZo"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:46.297045Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YEbQsVoexp2rsxNem6uVL5"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:46.314204Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YEbQsVoexp2rsxNem6uVL5"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:47.597431Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01PV5qzUDWjm5AttBUBnxcgL"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:47.612787Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01PV5qzUDWjm5AttBUBnxcgL"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:48.993508Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01PbkSf9Qf485CVHZZMfoVme"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:49.010337Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01PbkSf9Qf485CVHZZMfoVme"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:50.450684Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Ne5LTjf1EHvU9Q5qQA8HHf"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:50.471077Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Ne5LTjf1EHvU9Q5qQA8HHf"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:52.539747Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016PT7redx9URvf5kfVd5phu"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:52.555012Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016PT7redx9URvf5kfVd5phu"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:56:53.326453Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_013JJgT751Vx3CeRJoRNmdgd"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:56:54.988831Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_013JJgT751Vx3CeRJoRNmdgd"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:00.581035Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01ERupxJC73drh6ohpEPkLVd"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:00.596767Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01ERupxJC73drh6ohpEPkLVd"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:01.980745Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01JS1ceNiQXzRhtB83ZHWUd6"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:01.996072Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01JS1ceNiQXzRhtB83ZHWUd6"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:03.751789Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01PfVkisXwCUup3Zdd6eLYLU"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:03.771677Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01PfVkisXwCUup3Zdd6eLYLU"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:08.299397Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_017ZTkAqYviXuHmhaQa8psUR"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:08.317084Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_017ZTkAqYviXuHmhaQa8psUR"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:09.07791Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01KmTEcjA3rYL4TfQvAGtKk1"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:09.09109Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01KmTEcjA3rYL4TfQvAGtKk1"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:13.947143Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0156R61PzXrbxHc61HFUPgqp"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:13.964314Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0156R61PzXrbxHc61HFUPgqp"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:15.436077Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016bdsznZCasgCHkDHy1yg2R"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:15.450945Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016bdsznZCasgCHkDHy1yg2R"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:17.588391Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Rp3Qsse6fkVn1v9Haptx3b"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:17.604484Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Rp3Qsse6fkVn1v9Haptx3b"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:18.752154Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01633vpu4JuGUNgZ8jRQDPgL"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:18.767986Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01633vpu4JuGUNgZ8jRQDPgL"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:19.543749Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01Y6fLt48QEEPSz7a8kj7VYy"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:21.894804Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01Y6fLt48QEEPSz7a8kj7VYy"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:57:30.599997Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01GVfXRiwcgUtyyVmNThA5K6"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:57:30.617261Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01GVfXRiwcgUtyyVmNThA5K6"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T13:57:36.114556Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ac6439dd64cd169db", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T13:57:41.900866Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T13:59:08.609097Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:59:15.28145Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01NKV36DtkQ4t3ehJc9FNKeX"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:59:21.989925Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01NKV36DtkQ4t3ehJc9FNKeX"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T13:59:58.348688Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_019MGBuSJefWfUF5c2s6Mtfy"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T13:59:58.362692Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_019MGBuSJefWfUF5c2s6Mtfy"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:20.23693Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01B59rv1GuL4QWHn9VWayLat"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:20.256171Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01B59rv1GuL4QWHn9VWayLat"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:21.378591Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0149DHkTUkWFTrtzpwLdzEnT"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:21.400037Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_0149DHkTUkWFTrtzpwLdzEnT"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:23.677426Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01AveWuQAdWuhabvMhG43gUZ"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:23.693916Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01AveWuQAdWuhabvMhG43gUZ"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:40.943739Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01BktwopgEXqUgCZuaRvYYiD"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:40.964092Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01BktwopgEXqUgCZuaRvYYiD"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:42.124033Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WM9wfaqKNvazHTmAveMBij"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:42.139002Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01WM9wfaqKNvazHTmAveMBij"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:46.52989Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QA4UJqvQ29ZxJW5cwpUA7J"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:46.54987Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QA4UJqvQ29ZxJW5cwpUA7J"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:47.633069Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Uhsq9DHW5W5KFy2VipgX1w"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:47.651956Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Uhsq9DHW5W5KFy2VipgX1w"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:00:48.423622Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01DzUBn4DHD9BfKdCPtcViHb"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:00:50.831612Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01DzUBn4DHD9BfKdCPtcViHb"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:01:05.448082Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01MeXzrZe7QTRLScKm4aBpGD"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:01:05.465446Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01MeXzrZe7QTRLScKm4aBpGD"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:01:10.924031Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:02:25.322361Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:02:31.845631Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01HT6UeqQ3J6GVS1SrCF8xsM"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:02:34.266584Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01HT6UeqQ3J6GVS1SrCF8xsM"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:02:53.042827Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_014VTtUxwbDPsKNg52LrVcD9"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:02:54.335889Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_014VTtUxwbDPsKNg52LrVcD9"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:26.505343Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01VPA2QfivakyBw3UwqXTT78"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:26.525358Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01VPA2QfivakyBw3UwqXTT78"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:27.796557Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018tQR9TDEr2K2imLpNo75wQ"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:27.814196Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018tQR9TDEr2K2imLpNo75wQ"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:29.653039Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Rh2DccnqWY9aivEEax9ipZ"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:29.671667Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Rh2DccnqWY9aivEEax9ipZ"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:32.109871Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_012naYVXFNqbQMW4qnkrwE4b"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:32.127838Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_012naYVXFNqbQMW4qnkrwE4b"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:36.660409Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015VAuNMuGfgyUt1mF9aNsVt"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:36.675997Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015VAuNMuGfgyUt1mF9aNsVt"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:37.915235Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018uSkvpTfrPw4kBgrSgqSS9"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:37.932248Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018uSkvpTfrPw4kBgrSgqSS9"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:39.667174Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01VWq1wMD133SKtj86JbnLta"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:39.685744Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01VWq1wMD133SKtj86JbnLta"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:40.920508Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Q6TsPsqgUwkPZcddMNYoaU"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:40.939217Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Q6TsPsqgUwkPZcddMNYoaU"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:42.665727Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Nm3WFUNfqo7H1xUML8FXR9"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:42.684318Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Nm3WFUNfqo7H1xUML8FXR9"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:45.523791Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DuHwjnbtWRvgnHXBPe7REm"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:45.544227Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DuHwjnbtWRvgnHXBPe7REm"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:46.311212Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01JNzRAp95yF26ytrpAns3s3"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:48.217064Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01JNzRAp95yF26ytrpAns3s3"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:03:54.010321Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CnL4VpLVanupQPQGZJN7QP"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:03:54.027984Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01CnL4VpLVanupQPQGZJN7QP"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:03:58.187712Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a297a87542020f74c", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:04:03.39711Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:05:11.654331Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:05:44.874061Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DVB1PoC8N9LrFuHkw9CzLz"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:05:44.896512Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DVB1PoC8N9LrFuHkw9CzLz"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:05:46.269216Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016iicU82c9tSXRuz4JFApcw"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:05:46.288242Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_016iicU82c9tSXRuz4JFApcw"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:05:50.070692Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Qz4kYyL45QQXFZhELUKeFv"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:05:50.087415Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01Qz4kYyL45QQXFZhELUKeFv"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:05:50.853122Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01Vcpw7LCGpLbmMcb5iPBgmk"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:05:54.214544Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01Vcpw7LCGpLbmMcb5iPBgmk"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:05:59.003072Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ad09cef46fe588425", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:06:04.889577Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:06:48.715771Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:07:11.881349Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01Mk8VhgaSCNKzK8Q3XjbWGS"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:07:11.903859Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01Mk8VhgaSCNKzK8Q3XjbWGS"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:07:16.939927Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WWzVCKZLwR8YeYH1jk5XjY"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:07:16.956911Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01WWzVCKZLwR8YeYH1jk5XjY"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:07:25.294584Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01VCv4JrUMsz3eAGbxBi2P58"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:07:25.313235Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01VCv4JrUMsz3eAGbxBi2P58"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:07:31.616637Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "afeddd98da8638025", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:07:37.795865Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:09:30.86914Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:10:06.919298Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01JNbunhT9iMa5C3UwyqDMnE"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:10:07.145733Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01JNbunhT9iMa5C3UwyqDMnE"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:10:11.969866Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01CqT6KWN326sU23bPekjApw"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:10:25.178062Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_01CqT6KWN326sU23bPekjApw"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:11:07.040078Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01LnrkL8e4TjPFsJnC1HiAsq"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:11:07.060826Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01LnrkL8e4TjPFsJnC1HiAsq"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:12:04.235735Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_019hs7wti1FjJnQGie9bpUZ2"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:12:04.256338Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_019hs7wti1FjJnQGie9bpUZ2"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:12:16.521571Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YGfMJB2ryNKA7kVJQH7BuS"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:12:16.540049Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01YGfMJB2ryNKA7kVJQH7BuS"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:13:04.507139Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01GD52h9Y5xiYzN1v4Sw6qqF"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:13:04.528237Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01GD52h9Y5xiYzN1v4Sw6qqF"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:13:07.358216Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011Hh1YK8YsN14GRcoMMmMRS"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:13:07.375291Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_011Hh1YK8YsN14GRcoMMmMRS"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:13:19.181422Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a30d316d61a5ddfa8", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:13:27.24063Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:14:03.071598Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:14:11.661326Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "abdcd805e20c3ba42", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:14:17.771046Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:16:13.174704Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:16:28.85698Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_011BQFbefESoSEscTn4yLWvX"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:16:28.916924Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_011BQFbefESoSEscTn4yLWvX"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:16:33.111723Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018qo96QfxUQ8MyyL8WhpYqi"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:16:33.135347Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_018qo96QfxUQ8MyyL8WhpYqi"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:16:41.614574Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01VaTnNQ8KcpFXLfjgs9E8BU"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:16:41.63838Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01VaTnNQ8KcpFXLfjgs9E8BU"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:16:48.559814Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01M7dmjtQFJDjmBNtoX9p6Um"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:16:48.57959Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01M7dmjtQFJDjmBNtoX9p6Um"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:16:49.34429Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_017vxqVoACKKok8dZk7udpFG"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:16:51.443237Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_017vxqVoACKKok8dZk7udpFG"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:16:59.122522Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_012ZF66bY7eB896CH7qZz9co"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:16:59.141844Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_012ZF66bY7eB896CH7qZz9co"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:17:00.22041Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01AaXDVjhbDqgDtAYQUxwstg"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:17:00.240525Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01AaXDVjhbDqgDtAYQUxwstg"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:17:01.004981Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_012dgDQJrarEpXuR8pdt5v2Z"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:17:02.376674Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_012dgDQJrarEpXuR8pdt5v2Z"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:17:06.47114Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a0fc52a00de7405cb", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:17:13.811675Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:18:25.978317Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:18:49.6335Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_014WtdLgDLogC8BomR7h9etL"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:18:49.651978Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_014WtdLgDLogC8BomR7h9etL"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:18:50.679352Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01ADoC4qxa7wXkzGd8vASZPa"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:18:50.694222Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01ADoC4qxa7wXkzGd8vASZPa"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:18:51.462784Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01X2nBiAm6J9EfwStz87qx1X"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:18:54.87807Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_01X2nBiAm6J9EfwStz87qx1X"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:19:03.790408Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DMiJ981M39fd9eaS364FLC"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:19:03.80748Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01DMiJ981M39fd9eaS364FLC"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:19:11.102463Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "acd936c7facba488e", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:19:18.066333Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:26:04.906733Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:26:27.606159Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01KqLAV7A9FRj2XfhSDSUqTD"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:26:27.631369Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01KqLAV7A9FRj2XfhSDSUqTD"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:26:34.940231Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a7c8b79159f89a909", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:26:40.944233Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:33:07.758743Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:33:24.206778Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "aa4dfb1ceab746216", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:33:30.586699Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:35:54.209546Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:36:00.603954Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a8b5423512d63fecf", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:36:06.283669Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:40:30.578813Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:40:56.668531Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_019xHvVpLJo2wsbhLK7TWkgQ"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:40:56.696779Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_019xHvVpLJo2wsbhLK7TWkgQ"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:41:06.739169Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01SDrwKA2Qi27LgVJMXKpSMb"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:41:06.758867Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01SDrwKA2Qi27LgVJMXKpSMb"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:41:14.023515Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01CDKWCyk96KMg79s5cDr3Cy"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:41:14.054199Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Write", "tool_use_id": "toolu_01CDKWCyk96KMg79s5cDr3Cy"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:41:14.83269Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_018exUvrzrk1JPhqpobRUVP5"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:41:17.167774Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "mcp__claude-vscode__getDiagnostics", "tool_use_id": "toolu_018exUvrzrk1JPhqpobRUVP5"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:41:24.629707Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "aa2b15319b1974ec5", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:41:34.769426Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T14:53:32.647346Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:53:58.600885Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QViDTpU1LgVw78vDpwMg2Q"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:53:58.625863Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01QViDTpU1LgVw78vDpwMg2Q"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:54:08.680878Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015J23Hke7Z1cS5MBH3LnHhv"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:54:08.699498Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_015J23Hke7Z1cS5MBH3LnHhv"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T14:54:12.522238Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01J8Lidkhat4g3f4BENHv4mG"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T14:54:12.539753Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01J8Lidkhat4g3f4BENHv4mG"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T14:54:19.28736Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a86ab71aa5fde7134", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T14:54:26.115542Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T15:06:31.898436Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T15:07:05.522902Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a4c33507db0c3a79a", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T15:07:12.520619Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T16:01:04.923894Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T16:02:27.0911Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01LTRsda3513eTAxPgSndhUg"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T16:02:27.114369Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Edit", "tool_use_id": "toolu_01LTRsda3513eTAxPgSndhUg"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T16:02:35.873266Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "abd1a68b6960ea217", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T16:02:42.028708Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T16:28:16.117151Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T16:28:41.922727Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a606c9fd97049c84f", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T16:28:48.397305Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T16:46:53.135019Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T16:47:19.406007Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a078986c6710b4ad3", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T16:47:25.957171Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T16:50:23.010336Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T16:50:29.7581Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a2841037264432756", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T16:50:35.622615Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a1235bc8e9f5763a1", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T17:46:16.306002Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T17:49:28.534491Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T17:49:57.389535Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "abd934cb1088f1385", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T17:50:04.023786Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T17:52:04.964471Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T17:52:11.104397Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a6bb41a5db8f8b123", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T17:52:17.733194Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T17:55:17.651815Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T17:55:23.882617Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a57ebb3d8b23e26b7", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T17:55:31.204444Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T17:58:06.853056Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T17:58:13.350831Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a06348c01d64f2db2", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T17:58:20.807833Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:02:02.775854Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:02:09.956289Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a678a4b8ebea95881", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:02:16.296535Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:04:14.596322Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:04:21.410027Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ace923805f28d3502", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:04:27.425931Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:14:24.102862Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:14:34.059676Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a45a1e2e39ce25862", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:14:39.843958Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:17:03.484318Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:17:11.228654Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a2aad41eca04ece8c", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:17:17.452199Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:22:12.941748Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:22:24.128306Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "aa92c25b6d95cf9be", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:22:30.77376Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:26:08.60044Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:26:14.574386Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a76b3a204a8fda1d5", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:26:22.236171Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:26:53.558664Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:27:00.932952Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a63a215ffe0dd6004", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:27:08.003573Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:28:29.242632Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:28:35.972188Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a747b1e3eda9b2dc7", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:28:43.230206Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:30:20.177568Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:30:25.561253Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ad179f9ab4a1a27d5", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:30:32.135143Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:32:32.373201Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:32:39.118047Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a66b49efb39b77ed8", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:32:45.877471Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:34:31.59976Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:34:39.042451Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "afbee42fd16a08429", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:34:45.388862Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:37:27.082682Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:37:34.161296Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ad12a4b0168b7edf3", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:37:40.471019Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:39:25.520046Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:39:33.280117Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a4234d934a2cd51df", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:39:41.148032Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:40:17.688422Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:40:26.246774Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a836350426e44f081", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:40:34.253067Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:45:16.475907Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:45:19.879605Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a3bebb3f9e49943f1", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:45:26.148537Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:46:43.484056Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:46:52.810833Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a52b7ea5b19260656", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:46:59.786359Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:52:06.895207Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:52:15.953869Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ad1140d5da09dbe52", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:52:24.074331Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:53:58.831769Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:54:05.954012Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a3171a742af8b46f9", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:54:15.057195Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T18:56:19.722824Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T18:56:28.244312Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a78e9b61a7125b7c2", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T18:56:41.045019Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:01:22.231292Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:01:45.373051Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a1463ec1de521ce66", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:01:51.228243Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:02:24.251298Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:02:32.414238Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ac52df0ddd8d86ce8", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:02:39.161639Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:03:31.10569Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:03:39.114178Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "acbbf4c8ed2a48df6", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:03:44.690797Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:10:40.808866Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:10:50.521235Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a792903924ccc1cc4", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:10:57.877814Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:13:23.351652Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:13:32.081272Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "aff191d971d08db54", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:13:43.217387Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:18:41.144569Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:18:49.35012Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ac601e82a347345a7", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:18:57.126565Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:21:15.699176Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:21:21.794319Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a15b06d62f543b483", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:21:31.160608Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:22:20.994641Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:22:30.433621Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a99d229bcd3530d96", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:22:36.486221Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:25:10.769337Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:25:21.053435Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a63f677cf8c7c3628", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:25:27.223267Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:27:56.348627Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T19:28:00.612909Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01HqXP2ckmi2gRhhn1fC3feu"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T19:28:00.638262Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01HqXP2ckmi2gRhhn1fC3feu"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:28:05.89664Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a9226f0581a19b05f", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:28:12.274155Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:29:50.087861Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:29:59.756637Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "af8fbb5c49d178ca5", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:30:07.002969Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:35:05.199793Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:35:14.928159Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "afc89bd72a234826d", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:35:21.013824Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:37:58.374084Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:38:05.158118Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a81d262760b352f50", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:38:13.574308Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:40:31.055831Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:40:38.972298Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a0479f076dcb828ad", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:40:46.415321Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:43:39.290035Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:43:48.08591Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a5acf5bba76e9a5c4", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:43:55.074322Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:50:42.224415Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:50:55.238476Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ab9266345cf784356", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:51:03.559589Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:51:25.044343Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T19:51:32.393515Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_013dzXfhUsK46fyqE5Fj4LLT"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T19:51:32.610542Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Bash", "tool_use_id": "toolu_013dzXfhUsK46fyqE5Fj4LLT"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:51:40.261357Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a33689f1a69727959", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:51:47.141539Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:52:19.240865Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:52:28.013963Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:52:34.438449Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:52:43.915588Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a23bda3fa60de0872", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:52:50.905976Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:53:17.749858Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:53:24.865547Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "abacf995c15f5d2fc", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:53:33.965612Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:57:01.901397Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:57:14.028154Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a63b00ebe62b26cdd", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:57:20.178131Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:57:40.093193Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:57:56.452618Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "ab73cd51497e77b9f", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:58:03.610685Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T19:58:22.288211Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "PreToolUse", "nhi_ts": "2026-11-15T19:58:26.698499Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01FoHRC1AYy3ycVkzWVrxWVw"}
+{"hook_event_name": "PostToolUse", "nhi_ts": "2026-11-15T19:58:26.716105Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af", "tool_name": "Read", "tool_use_id": "toolu_01FoHRC1AYy3ycVkzWVrxWVw"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T19:58:33.206052Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "aba82e156dc13f6cd", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T19:58:40.264399Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "UserPromptSubmit", "nhi_ts": "2026-11-15T20:01:34.201521Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"hook_event_name": "Stop", "nhi_ts": "2026-11-15T20:02:50.278745Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}
+{"agent_id": "a86b7173b35b533c2", "agent_type": "", "hook_event_name": "SubagentStop", "nhi_ts": "2026-11-15T20:02:58.959011Z", "session_id": "c5088f4d-d6f2-4cb3-a3ab-14acf5f3f7af"}

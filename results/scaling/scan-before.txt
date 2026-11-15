@@ -1,0 +1,38 @@
+input: /Users/krishita/scan-corpus  2.41 GB
+input: /Users/krishita/Desktop  8.50 GB
+input: /Users/krishita/Documents  0.00 GB
+total scannable: 10.92 GB   files: 439239
+== workers=1
+10 unique secrets | 3 config files | 406441 files scanned | 32798 skipped
+      313.92 real       235.86 user        16.11 sys
+            45350912  maximum resident set size
+== workers=4
+10 unique secrets | 3 config files | 688541 files scanned | 36436 skipped
+      175.31 real       561.41 user        39.82 sys
+            90030080  maximum resident set size
+== workers=8
+10 unique secrets | 3 config files | 688541 files scanned | 36436 skipped
+      140.41 real       870.86 user        77.29 sys
+           138608640  maximum resident set size
+== workers=16
+10 unique secrets | 3 config files | 688542 files scanned | 36436 skipped
+      122.18 real       945.58 user        85.32 sys
+           222707712  maximum resident set size
+== same output for every worker count?
+workers=4 DIFFERENT
+workers=8 DIFFERENT
+workers=16 DIFFERENT
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+   249.89s 26.94% 26.94%    415.03s 44.74%  regexp.(*machine).add
+   168.41s 18.15% 45.09%    168.42s 18.16%  syscall.rawsyscalln
+   148.56s 16.01% 61.11%    153.25s 16.52%  regexp.(*machine).step
+    82.57s  8.90% 70.01%    681.46s 73.46%  regexp.(*machine).match
+    81.22s  8.76% 78.76%     81.52s  8.79%  regexp/syntax.IsWordChar (inline)
+    50.16s  5.41% 84.17%    131.96s 14.23%  regexp.lazyFlag.match
+    23.38s  2.52% 86.69%     25.26s  2.72%  regexp.(*machine).alloc (inline)
+    20.19s  2.18% 88.87%     23.21s  2.50%  regexp.(*inputString).step
+    18.28s  1.97% 90.84%     18.31s  1.97%  runtime.usleep
+    13.19s  1.42% 92.26%     29.26s  3.15%  regexp.(*Regexp).tryBacktrack
+     8.51s  0.92% 93.18%      8.51s  0.92%  runtime.memmove
+     8.01s  0.86% 94.04%      8.01s  0.86%  internal/bytealg.IndexByteString

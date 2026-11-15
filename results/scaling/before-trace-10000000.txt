@@ -1,0 +1,51 @@
+wrote 10000000 records into /tmp/replay
+2.0G	/tmp/replay
+== workers=1
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        7.05 real        10.17 user         2.22 sys
+          1343275008  maximum resident set size
+== workers=4
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        6.74 real        10.25 user         2.33 sys
+          1272971264  maximum resident set size
+== workers=8
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        6.76 real        10.40 user         2.33 sys
+          1203339264  maximum resident set size
+== workers=16
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        6.98 real        10.46 user         2.51 sys
+          1327087616  maximum resident set size
+== same output for every worker count?
+workers=4 identical to workers=1
+workers=8 identical to workers=1
+workers=16 identical to workers=1
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+     4.45s 37.27% 37.27%      4.45s 37.27%  runtime.pthread_cond_signal
+     1.86s 15.58% 52.85%      1.86s 15.58%  runtime.usleep
+     1.82s 15.24% 68.09%      1.82s 15.24%  runtime.pthread_cond_wait
+     0.77s  6.45% 74.54%      0.77s  6.45%  syscall.rawsyscalln
+     0.56s  4.69% 79.23%      0.56s  4.69%  runtime.madvise
+     0.45s  3.77% 83.00%      0.49s  4.10%  runtime.tryDeferToSpanScan
+     0.29s  2.43% 85.43%      0.53s  4.44%  runtime.scanObject
+     0.17s  1.42% 86.85%      0.45s  3.77%  runtime.scanObjectsSmall
+     0.10s  0.84% 87.69%      0.10s  0.84%  cmpbody
+     0.10s  0.84% 88.53%      0.10s  0.84%  runtime.memmove
+     0.07s  0.59% 89.11%      0.50s  4.19%  github.com/krishitag/nhi-probe/internal/trace.buildGraph
+     0.04s  0.34% 89.45%      0.11s  0.92%  slices.partitionCmpFunc[go.shape.struct { Source string; Session string; Span string; TS time.Time; Agent string; Chain []string; Target string; NHI string; Via string; Redacted string }]
+     0.03s  0.25% 89.70%      0.07s  0.59%  encoding/json/jsontext.(*decoderState).consumeObject
+     0.03s  0.25% 89.95%      0.12s  1.01%  encoding/json/jsontext.(*decoderState).consumeValue
+     0.03s  0.25% 90.20%      0.10s  0.84%  runtime.bulkBarrierPreWriteSrcOnly
+== heap profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+    2565kB   100%   100%     2565kB   100%  runtime.mallocgc
+         0     0%   100%     2565kB   100%  runtime.allocm
+         0     0%   100%      513kB 20.00%  runtime.mcall
+         0     0%   100%     2052kB 80.00%  runtime.mstart
+         0     0%   100%     2052kB 80.00%  runtime.mstart0
+         0     0%   100%     2052kB 80.00%  runtime.mstart1
+         0     0%   100%     2565kB   100%  runtime.newm
+         0     0%   100%     2565kB   100%  runtime.newobject
+         0     0%   100%      513kB 20.00%  runtime.park_m
+         0     0%   100%     2052kB 80.00%  runtime.resetspinning

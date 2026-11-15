@@ -1,0 +1,37 @@
+input: /Users/krishita/scan-corpus  7.34 GB (without .git)
+input: /Users/krishita/Desktop  8.89 GB (without .git)
+input: /Users/krishita/Documents  0.00 GB (without .git)
+== workers=1
+10 unique secrets | 3 config files | 688541 files scanned | 36438 skipped
+      120.77 real        39.86 user        23.10 sys
+            46858240  maximum resident set size
+== workers=4
+10 unique secrets | 3 config files | 688541 files scanned | 36438 skipped
+       48.80 real        42.39 user        27.34 sys
+            84082688  maximum resident set size
+== workers=8
+10 unique secrets | 3 config files | 688541 files scanned | 36438 skipped
+       34.36 real        47.51 user        39.38 sys
+           164544512  maximum resident set size
+== workers=16
+10 unique secrets | 3 config files | 688541 files scanned | 36438 skipped
+       29.61 real        52.52 user        59.95 sys
+           195051520  maximum resident set size
+== same output for every worker count?
+workers=4 identical to workers=1
+workers=8 identical to workers=1
+workers=16 identical to workers=1
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+    58.81s 56.11% 56.11%     58.81s 56.11%  syscall.rawsyscalln
+    17.06s 16.28% 72.39%     17.06s 16.28%  internal/bytealg.IndexByteString
+     5.49s  5.24% 77.63%     25.65s 24.47%  internal/stringslite.Index
+     3.78s  3.61% 81.23%      3.79s  3.62%  runtime.pthread_cond_signal
+     2.88s  2.75% 83.98%      2.88s  2.75%  runtime.pthread_cond_wait
+     2.52s  2.40% 86.38%      4.02s  3.84%  regexp.(*machine).add
+     2.23s  2.13% 88.51%      2.23s  2.13%  internal/bytealg.IndexString
+     2.17s  2.07% 90.58%      2.17s  2.07%  runtime.usleep
+     1.51s  1.44% 92.02%      1.51s  1.44%  runtime.pthread_kill
+     1.38s  1.32% 93.34%      1.41s  1.35%  regexp.(*machine).step
+     0.86s  0.82% 94.16%      6.64s  6.34%  regexp.(*machine).match
+     0.76s  0.73% 94.89%      0.76s  0.73%  runtime.madvise

@@ -1,0 +1,67 @@
+{
+  "partial": false,
+  "config_files": 3,
+  "files_scanned": 0,
+  "files_skipped": 0,
+  "secrets": [
+    {
+      "fp": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "provider": "github",
+      "redacted": "gith...IAdF",
+      "locations": [
+        {
+          "agent": "claude-code",
+          "scope": "/Users/krishita/Desktop/nhi-probe",
+          "server": "github-remote",
+          "file": "/Users/krishita/.claude.json",
+          "field": "header:Authorization"
+        },
+        {
+          "agent": "claude-code",
+          "scope": "/Users/krishita/Desktop/nhi-probe",
+          "server": "github",
+          "file": "/Users/krishita/.claude.json",
+          "field": "env:GITHUB_PERSONAL_ACCESS_TOKEN"
+        },
+        {
+          "agent": "adk",
+          "scope": "user",
+          "server": "tools",
+          "file": "/Users/krishita/nhi-lab/adk/.env",
+          "field": "env:GITHUB_TOKEN"
+        }
+      ]
+    },
+    {
+      "fp": "2c645bb6dfa897a8f065067dec1f150a1d977420ed87953056eb5b570e80a432",
+      "short": "2c645bb6dfa8",
+      "provider": "notion",
+      "redacted": "ntn_...y95v",
+      "locations": [
+        {
+          "agent": "claude-code",
+          "scope": "/Users/krishita/Desktop/nhi-probe",
+          "server": "notion",
+          "file": "/Users/krishita/.claude.json",
+          "field": "env:NOTION_TOKEN"
+        }
+      ]
+    },
+    {
+      "fp": "39ebae290f9fca9fa34ef754d1b3ee6f81c88735a8c7d08e319ab2a794e6a003",
+      "short": "39ebae290f9f",
+      "provider": "unknown",
+      "redacted": "AQ.A...Imsw",
+      "locations": [
+        {
+          "agent": "adk",
+          "scope": "user",
+          "server": "tools",
+          "file": "/Users/krishita/nhi-lab/adk/.env",
+          "field": "env:GOOGLE_API_KEY"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+wrote 10000000 records into /tmp/replay
+2.0G	/tmp/replay
+== workers=1
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        5.83 real         8.38 user         0.43 sys
+           485015552  maximum resident set size
+== workers=4
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        5.53 real         8.75 user         0.45 sys
+           481247232  maximum resident set size
+== workers=8
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        5.55 real         8.83 user         0.48 sys
+           479379456  maximum resident set size
+== workers=16
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        5.64 real         8.79 user         0.50 sys
+           475185152  maximum resident set size
+== same output for every worker count?
+workers=4 identical to workers=1
+workers=8 identical to workers=1
+workers=16 identical to workers=1
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+     4.34s 50.00% 50.00%      4.34s 50.00%  syscall.rawsyscalln
+     0.63s  7.26% 57.26%      0.63s  7.26%  runtime.pthread_cond_signal
+     0.61s  7.03% 64.29%      0.61s  7.03%  runtime.pthread_cond_wait
+     0.45s  5.18% 69.47%      0.79s  9.10%  runtime.scanObject
+     0.41s  4.72% 74.19%      0.41s  4.72%  runtime.madvise
+     0.36s  4.15% 78.34%      0.36s  4.15%  runtime.usleep
+     0.34s  3.92% 82.26%      0.41s  4.72%  runtime.tryDeferToSpanScan
+     0.21s  2.42% 84.68%      0.21s  2.42%  runtime.memclrNoHeapPointers
+     0.18s  2.07% 86.75%      0.18s  2.07%  cmpbody
+     0.11s  1.27% 88.02%      0.11s  1.27%  encoding/json/internal/jsonwire.ConsumeSimpleString
+     0.06s  0.69% 88.71%      0.07s  0.81%  github.com/krishitag/nhi-probe/internal/trace.(*callStore).add
+     0.05s  0.58% 89.29%      0.05s  0.58%  runtime.(*mspan).moveInlineMarks
+     0.05s  0.58% 89.86%      0.05s  0.58%  runtime.memequal
+     0.04s  0.46% 90.32%      0.19s  2.19%  runtime.scanObjectsSmall
+     0.04s  0.46% 90.78%      0.05s  0.58%  runtime.typePointers.next
+== heap profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+     147MB 86.90% 86.90%      147MB 86.90%  github.com/krishitag/nhi-probe/internal/trace.(*callStore).add
+      17MB 10.05% 96.95%       17MB 10.05%  encoding/json/v2.makeString
+    2.50MB  1.48% 98.43%     2.50MB  1.48%  runtime.mallocgc
+    1.50MB  0.89% 99.32%     1.50MB  0.89%  github.com/krishitag/nhi-probe/internal/trace.(*worker).add
+    1.16MB  0.68%   100%     1.16MB  0.68%  runtime/pprof.StartCPUProfile
+         0     0%   100%       17MB 10.05%  encoding/json.Unmarshal
+         0     0%   100%       17MB 10.05%  encoding/json/v2.Unmarshal
+         0     0%   100%       17MB 10.05%  encoding/json/v2.makeStringArshaler.func2
+         0     0%   100%       17MB 10.05%  encoding/json/v2.makeStructArshaler.func3
+         0     0%   100%       17MB 10.05%  encoding/json/v2.unmarshalDecode

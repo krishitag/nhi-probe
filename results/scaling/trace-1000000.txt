@@ -1,0 +1,51 @@
+wrote 1000000 records into /tmp/replay
+198M	/tmp/replay
+== workers=1
+188675 events | 45285 tool calls (18866 matched hook+proxy, 7549 proxy-only, 15096 hook-only, 0 of those linked by scan) | 14 edges | 0 risks
+        1.07 real         1.07 user         0.25 sys
+           144982016  maximum resident set size
+== workers=4
+188675 events | 45285 tool calls (18866 matched hook+proxy, 7549 proxy-only, 15096 hook-only, 0 of those linked by scan) | 14 edges | 0 risks
+        0.68 real         1.02 user         0.24 sys
+           154583040  maximum resident set size
+== workers=8
+188675 events | 45285 tool calls (18866 matched hook+proxy, 7549 proxy-only, 15096 hook-only, 0 of those linked by scan) | 14 edges | 0 risks
+        0.70 real         1.05 user         0.24 sys
+           156401664  maximum resident set size
+== workers=16
+188675 events | 45285 tool calls (18866 matched hook+proxy, 7549 proxy-only, 15096 hook-only, 0 of those linked by scan) | 14 edges | 0 risks
+        0.81 real         1.02 user         0.26 sys
+           158908416  maximum resident set size
+== same output for every worker count?
+workers=4 identical to workers=1
+workers=8 identical to workers=1
+workers=16 identical to workers=1
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+     0.43s 36.13% 36.13%      0.43s 36.13%  runtime.pthread_cond_signal
+     0.20s 16.81% 52.94%      0.20s 16.81%  runtime.pthread_cond_wait
+     0.19s 15.97% 68.91%      0.19s 15.97%  runtime.usleep
+     0.07s  5.88% 74.79%      0.07s  5.88%  syscall.rawsyscalln
+     0.06s  5.04% 79.83%      0.06s  5.04%  runtime.madvise
+     0.04s  3.36% 83.19%      0.04s  3.36%  runtime.memmove
+     0.03s  2.52% 85.71%      0.03s  2.52%  encoding/json/internal/jsonwire.ConsumeSimpleString (inline)
+     0.02s  1.68% 87.39%      0.02s  1.68%  runtime.memclrNoHeapPointers
+     0.02s  1.68% 89.08%      0.03s  2.52%  runtime.scanObjectsSmall
+     0.02s  1.68% 90.76%      0.02s  1.68%  runtime.tryDeferToSpanScan
+     0.01s  0.84% 91.60%      0.01s  0.84%  cmpbody
+     0.01s  0.84% 92.44%      0.01s  0.84%  encoding/json/internal/jsonwire.ConsumeWhitespace (inline)
+     0.01s  0.84% 93.28%      0.01s  0.84%  encoding/json/jsontext.(*decoderState).ReadToken
+     0.01s  0.84% 94.12%      0.04s  3.36%  encoding/json/jsontext.(*decoderState).ReadValue
+     0.01s  0.84% 94.96%      0.02s  1.68%  encoding/json/jsontext.(*decoderState).consumeObject
+== heap profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+ 3590.05kB   100%   100%  3590.05kB   100%  runtime.mallocgc
+         0     0%   100%   512.05kB 14.26%  runtime.(*scavengerState).init
+         0     0%   100%     3078kB 85.74%  runtime.allocm
+         0     0%   100%   512.05kB 14.26%  runtime.bgscavenge
+         0     0%   100%      513kB 14.29%  runtime.mcall
+         0     0%   100%     2565kB 71.45%  runtime.mstart
+         0     0%   100%     2565kB 71.45%  runtime.mstart0
+         0     0%   100%     2565kB 71.45%  runtime.mstart1
+         0     0%   100%     3078kB 85.74%  runtime.newm
+         0     0%   100%  3590.05kB   100%  runtime.newobject

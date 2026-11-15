@@ -1,0 +1,13 @@
+/nhi-probe
+.DS_Store
+.env
+*.env
+secrets/
+captures/raw/
+*.prof
+.claude/settings.local.json
+results/*.tmp
+__pycache__/
+PLAN.md
+DECISIONS.md
+.venv/

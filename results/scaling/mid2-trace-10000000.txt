@@ -1,0 +1,51 @@
+wrote 10000000 records into /tmp/replay
+2.0G	/tmp/replay
+== workers=1
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.37 real        46.47 user         1.21 sys
+           755286016  maximum resident set size
+== workers=4
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.37 real        49.84 user         1.32 sys
+           779632640  maximum resident set size
+== workers=8
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.74 real        51.57 user         1.39 sys
+           681099264  maximum resident set size
+== workers=16
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.60 real        51.48 user         1.49 sys
+           726712320  maximum resident set size
+== same output for every worker count?
+workers=4 identical to workers=1
+workers=8 identical to workers=1
+workers=16 identical to workers=1
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+    7290ms 16.19% 16.19%    12680ms 28.16%  runtime.scanObjectsSmall
+    6640ms 14.75% 30.93%     9180ms 20.39%  runtime.tryDeferToSpanScan
+    5000ms 11.10% 42.04%    11400ms 25.32%  runtime.scanObject
+    4130ms  9.17% 51.21%     4130ms  9.17%  syscall.rawsyscalln
+    2970ms  6.60% 57.81%     2970ms  6.60%  runtime.madvise
+    1670ms  3.71% 61.51%     1670ms  3.71%  runtime.usleep
+    1510ms  3.35% 64.87%     1510ms  3.35%  runtime.pthread_cond_wait
+    1330ms  2.95% 67.82%     1330ms  2.95%  runtime.extractHeapBitsSmall
+    1300ms  2.89% 70.71%     1300ms  2.89%  internal/runtime/atomic.(*Uint32).CompareAndSwap
+    1090ms  2.42% 73.13%     1090ms  2.42%  runtime.(*spanScanOwnership).or (inline)
+    1060ms  2.35% 75.48%     1070ms  2.38%  runtime.pthread_cond_signal
+     700ms  1.55% 77.04%     1440ms  3.20%  runtime.scanObjectSmall
+     630ms  1.40% 78.44%     1720ms  3.82%  runtime.(*spanInlineMarkBits).tryAcquire
+     570ms  1.27% 79.70%      840ms  1.87%  runtime.findObject
+     490ms  1.09% 80.79%    27870ms 61.89%  runtime.gcDrain
+== heap profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+  146.75MB 84.94% 84.94%   146.75MB 84.94%  github.com/krishitag/nhi-probe/internal/trace.runPipeline
+   18.50MB 10.71% 95.64%    18.50MB 10.71%  encoding/json/v2.makeString
+    3.50MB  2.03% 97.67%     3.50MB  2.03%  runtime.mallocgc
+    2.02MB  1.17% 98.84%     2.02MB  1.17%  runtime/pprof.(*profMap).lookup
+       1MB  0.58% 99.42%        1MB  0.58%  regexp/syntax.(*compiler).inst
+         0     0% 99.42%    18.50MB 10.71%  encoding/json.Unmarshal
+         0     0% 99.42%    18.50MB 10.71%  encoding/json/v2.Unmarshal
+         0     0% 99.42%    18.50MB 10.71%  encoding/json/v2.makeStringArshaler.func2
+         0     0% 99.42%    18.50MB 10.71%  encoding/json/v2.makeStructArshaler.func3
+         0     0% 99.42%    18.50MB 10.71%  encoding/json/v2.unmarshalDecode

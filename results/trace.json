@@ -1,0 +1,387 @@
+{
+  "partial": false,
+  "inputs": [
+    "adk=/Users/krishita/nhi-lab/adk-trace.jsonl",
+    "proxy=/Users/krishita/nhi-lab/everything-events.jsonl",
+    "proxy=/Users/krishita/nhi-lab/github-events.jsonl",
+    "proxy=/Users/krishita/nhi-lab/github-remote-events.jsonl",
+    "hooks=/Users/krishita/nhi-lab/hooks.jsonl",
+    "proxy=/Users/krishita/nhi-lab/notion-events.jsonl"
+  ],
+  "stats": {
+    "events": 164,
+    "tool_calls": 26,
+    "matched_hook_proxy_calls": 8,
+    "proxy_only_calls": 2,
+    "hook_only_calls": 15,
+    "hook_only_linked_by_scan": 0,
+    "cloud_calls": 1,
+    "cloud_linked_by_scan": 1
+  },
+  "edges": [
+    {
+      "nhi": "124bc26e930fc578de300c22cb8d7e5eb8fec34327e08e3a86b0c36bd00e7eba",
+      "short": "124bc26e930f",
+      "redacted": "cf39...7804",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:Notion API/API-post-search",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-14T19:40:26.131273Z",
+      "last_seen": "2026-11-14T19:40:26.131273Z",
+      "sources": [
+        "nhi-proxy"
+      ]
+    },
+    {
+      "nhi": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "redacted": "gith...IAdF",
+      "agent": "adk:coder",
+      "path": "adk:supervisor \u003e adk:coder \u003e tool:github_list_issues",
+      "use": "implicit",
+      "via": [
+        "scan-wiring"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T11:58:35.122817993Z",
+      "last_seen": "2026-11-15T11:58:35.122817993Z",
+      "sources": [
+        "adk-trace+scan"
+      ]
+    },
+    {
+      "nhi": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "redacted": "gith...IAdF",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:github-mcp-server/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:GITHUB_PERSONAL_ACCESS_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-14T19:15:58.69752Z",
+      "last_seen": "2026-11-14T19:15:58.69752Z",
+      "sources": [
+        "nhi-proxy"
+      ]
+    },
+    {
+      "nhi": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "redacted": "gith...IAdF",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:github-remote/list_issues",
+      "use": "direct",
+      "via": [
+        "header:Authorization"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T12:51:34.855616Z",
+      "last_seen": "2026-11-15T12:51:34.855616Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "redacted": "gith...IAdF",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:GITHUB_PERSONAL_ACCESS_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T10:52:08.06189Z",
+      "last_seen": "2026-11-15T10:52:08.06189Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "redacted": "gith...IAdF",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:GITHUB_PERSONAL_ACCESS_TOKEN"
+      ],
+      "calls": 4,
+      "first_seen": "2026-11-15T12:37:59.329315Z",
+      "last_seen": "2026-11-15T21:00:30.421574Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "2c645bb6dfa897a8f065067dec1f150a1d977420ed87953056eb5b570e80a432",
+      "short": "2c645bb6dfa8",
+      "redacted": "ntn_...y95v",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:Notion API/API-post-search",
+      "use": "implicit",
+      "via": [
+        "env:NOTION_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-14T19:40:26.131273Z",
+      "last_seen": "2026-11-14T19:40:26.131273Z",
+      "sources": [
+        "nhi-proxy"
+      ]
+    },
+    {
+      "nhi": "2c645bb6dfa897a8f065067dec1f150a1d977420ed87953056eb5b570e80a432",
+      "short": "2c645bb6dfa8",
+      "redacted": "ntn_...y95v",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:notion/API-post-search",
+      "use": "implicit",
+      "via": [
+        "env:NOTION_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T10:52:11.201511Z",
+      "last_seen": "2026-11-15T10:52:11.201511Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "2c645bb6dfa897a8f065067dec1f150a1d977420ed87953056eb5b570e80a432",
+      "short": "2c645bb6dfa8",
+      "redacted": "ntn_...y95v",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:notion/API-retrieve-page-markdown",
+      "use": "implicit",
+      "via": [
+        "env:NOTION_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T10:52:16.346116Z",
+      "last_seen": "2026-11-15T10:52:16.346116Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "39ebae290f9fca9fa34ef754d1b3ee6f81c88735a8c7d08e319ab2a794e6a003",
+      "short": "39ebae290f9f",
+      "redacted": "AQ.A...Imsw",
+      "agent": "adk:coder",
+      "path": "adk:supervisor \u003e adk:coder \u003e tool:github_list_issues",
+      "use": "implicit",
+      "via": [
+        "scan-wiring"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T11:58:35.122817993Z",
+      "last_seen": "2026-11-15T11:58:35.122817993Z",
+      "sources": [
+        "adk-trace+scan"
+      ]
+    },
+    {
+      "nhi": "57814183eb1b6aeb11870edcdf7f5e9c5dfb48e8196de96a609c49a3be7d87d0",
+      "short": "57814183eb1b",
+      "redacted": "f491...9626",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T20:47:19.732618Z",
+      "last_seen": "2026-11-15T20:47:19.732618Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "5d265426c3a1c4c80018525c5ea7493ba2788ea607b7121c77f805e675913f88",
+      "short": "5d265426c3a1",
+      "redacted": "43bf...239a",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:github-mcp-server/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-14T19:15:58.69752Z",
+      "last_seen": "2026-11-14T19:15:58.69752Z",
+      "sources": [
+        "nhi-proxy"
+      ]
+    },
+    {
+      "nhi": "753e9d8f3b6f3b53fa5aa9eb0adfd4dbe0f854cc0b2aa396429ccc4010d21f21",
+      "short": "753e9d8f3b6f",
+      "redacted": "1fa2...f2eb",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T20:39:38.885799Z",
+      "last_seen": "2026-11-15T20:39:38.885799Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "8bb7399e4c61bb19a35caa0f2ded0b5cbe45c4d626bd647ce1efe929bbe5dc31",
+      "short": "8bb7399e4c61",
+      "redacted": "dba0...2457",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T21:00:30.421574Z",
+      "last_seen": "2026-11-15T21:00:30.421574Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "95eba588a73653f25e1ea739247e1589611156acdd0125725cf0041e19350ffe",
+      "short": "95eba588a736",
+      "redacted": "739e...2711",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T12:37:59.329315Z",
+      "last_seen": "2026-11-15T12:37:59.329315Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "c1869e3b0dbbd78018c0de1ee1b4b86a4b7dc01113c1626e4dc7acff9293686f",
+      "short": "c1869e3b0dbb",
+      "redacted": "e261...3836",
+      "agent": "claude-code",
+      "path": "claude-code \u003e mcp:github/list_issues",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T10:52:08.06189Z",
+      "last_seen": "2026-11-15T10:52:08.06189Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "c1869e3b0dbbd78018c0de1ee1b4b86a4b7dc01113c1626e4dc7acff9293686f",
+      "short": "c1869e3b0dbb",
+      "redacted": "e261...3836",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:notion/API-post-search",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T10:52:11.201511Z",
+      "last_seen": "2026-11-15T10:52:11.201511Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    },
+    {
+      "nhi": "c1869e3b0dbbd78018c0de1ee1b4b86a4b7dc01113c1626e4dc7acff9293686f",
+      "short": "c1869e3b0dbb",
+      "redacted": "e261...3836",
+      "agent": "subagent:general-purpose",
+      "path": "claude-code \u003e subagent:general-purpose \u003e mcp:notion/API-retrieve-page-markdown",
+      "use": "implicit",
+      "via": [
+        "env:CLAUDE_CODE_MESSAGING_TOKEN"
+      ],
+      "calls": 1,
+      "first_seen": "2026-11-15T10:52:16.346116Z",
+      "last_seen": "2026-11-15T10:52:16.346116Z",
+      "sources": [
+        "nhi-proxy+claude-hooks"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "kind": "shared-by-3plus-agents",
+      "severity": "high",
+      "nhi": "22b3ed9d5110e5e145ba627f5a9c5641930be016ffa48459a0baf7703327f6ac",
+      "short": "22b3ed9d5110",
+      "detail": "used by 3 agents: adk:coder, claude-code, subagent:general-purpose"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "124bc26e930fc578de300c22cb8d7e5eb8fec34327e08e3a86b0c36bd00e7eba",
+      "short": "124bc26e930f",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "57814183eb1b6aeb11870edcdf7f5e9c5dfb48e8196de96a609c49a3be7d87d0",
+      "short": "57814183eb1b",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "5d265426c3a1c4c80018525c5ea7493ba2788ea607b7121c77f805e675913f88",
+      "short": "5d265426c3a1",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "753e9d8f3b6f3b53fa5aa9eb0adfd4dbe0f854cc0b2aa396429ccc4010d21f21",
+      "short": "753e9d8f3b6f",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "8bb7399e4c61bb19a35caa0f2ded0b5cbe45c4d626bd647ce1efe929bbe5dc31",
+      "short": "8bb7399e4c61",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "95eba588a73653f25e1ea739247e1589611156acdd0125725cf0041e19350ffe",
+      "short": "95eba588a736",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    },
+    {
+      "kind": "used-but-not-wired",
+      "severity": "high",
+      "nhi": "c1869e3b0dbbd78018c0de1ee1b4b86a4b7dc01113c1626e4dc7acff9293686f",
+      "short": "c1869e3b0dbb",
+      "detail": "used by claude-code but not in any agent config (inherited from the environment?) via env:CLAUDE_CODE_MESSAGING_TOKEN"
+    }
+  ]
+}

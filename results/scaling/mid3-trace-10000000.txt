@@ -1,0 +1,51 @@
+wrote 10000000 records into /tmp/replay
+2.0G	/tmp/replay
+== workers=1
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.44 real        47.59 user         1.11 sys
+           668483584  maximum resident set size
+== workers=4
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.60 real        51.96 user         1.22 sys
+           664240128  maximum resident set size
+== workers=8
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+        9.95 real        54.00 user         1.25 sys
+           676331520  maximum resident set size
+== workers=16
+1886789 events | 452830 tool calls (188677 matched hook+proxy, 75472 proxy-only, 150945 hook-only, 0 of those linked by scan) | 13 edges | 0 risks
+       10.04 real        54.34 user         1.39 sys
+           665419776  maximum resident set size
+== same output for every worker count?
+workers=4 identical to workers=1
+workers=8 identical to workers=1
+workers=16 identical to workers=1
+== CPU profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+    8200ms 17.18% 17.18%    11120ms 23.30%  runtime.tryDeferToSpanScan
+    7420ms 15.55% 32.73%    13950ms 29.23%  runtime.scanObjectsSmall
+    4910ms 10.29% 43.02%    12470ms 26.13%  runtime.scanObject
+    4260ms  8.93% 51.95%     4260ms  8.93%  syscall.rawsyscalln
+    2900ms  6.08% 58.03%     2900ms  6.08%  runtime.madvise
+    1650ms  3.46% 61.48%     1650ms  3.46%  runtime.usleep
+    1630ms  3.42% 64.90%     1630ms  3.42%  runtime.pthread_cond_wait
+    1400ms  2.93% 67.83%     1400ms  2.93%  internal/runtime/atomic.(*Uint32).CompareAndSwap
+    1220ms  2.56% 70.39%     1220ms  2.56%  runtime.(*spanScanOwnership).or (inline)
+    1100ms  2.31% 72.69%     1100ms  2.31%  runtime.extractHeapBitsSmall
+    1040ms  2.18% 74.87%     1040ms  2.18%  runtime.pthread_cond_signal
+     760ms  1.59% 76.47%     1440ms  3.02%  runtime.scanObjectSmall
+     710ms  1.49% 77.95%     1950ms  4.09%  runtime.(*spanInlineMarkBits).tryAcquire
+     640ms  1.34% 79.30%      850ms  1.78%  runtime.findObject
+     600ms  1.26% 80.55%      610ms  1.28%  runtime.spanSetScans
+== heap profile (workers=16)
+      flat  flat%   sum%        cum   cum%
+     147MB 84.16% 84.16%      147MB 84.16%  github.com/krishitag/nhi-probe/internal/trace.(*callStore).add
+   23.50MB 13.46% 97.62%    23.50MB 13.46%  encoding/json/v2.makeString
+       3MB  1.72% 99.34%        3MB  1.72%  runtime.mallocgc
+    1.16MB  0.66%   100%     1.16MB  0.66%  runtime/pprof.StartCPUProfile
+         0     0%   100%    23.50MB 13.46%  encoding/json.Unmarshal (inline)
+         0     0%   100%    23.50MB 13.46%  encoding/json/v2.Unmarshal
+         0     0%   100%    23.50MB 13.46%  encoding/json/v2.makeStringArshaler.func2
+         0     0%   100%    23.50MB 13.46%  encoding/json/v2.makeStructArshaler.func3
+         0     0%   100%    23.50MB 13.46%  encoding/json/v2.unmarshalDecode
+         0     0%   100%        3MB  1.72%  github.com/krishitag/nhi-probe/internal/adapters/adktrace.Adapter.Parse

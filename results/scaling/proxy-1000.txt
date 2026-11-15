@@ -1,0 +1,11 @@
+== direct (no proxy), n=1000
+url=http://127.0.0.1:3001/mcp n=1000 ok=1000 failed=0 wall=135ms  p50=87.387ms p90=125.365ms p99=133.418ms max=134.479ms
+== through nhi-probe proxy, n=1000
+url=http://127.0.0.1:8788/ n=1000 ok=1000 failed=0 wall=108ms  p50=53.475ms p90=94.331ms p99=101.823ms max=102.818ms
+== second round (warm)
+url=http://127.0.0.1:3001/mcp n=1000 ok=1000 failed=0 wall=79ms  p50=37.635ms p90=70.363ms p99=76.347ms max=76.95ms
+url=http://127.0.0.1:8788/ n=1000 ok=1000 failed=0 wall=101ms  p50=62.601ms p90=93.692ms p99=98.864ms max=100.046ms
+== proxy process (Ctrl-C at the end)
+        1.78 real         0.23 user         0.26 sys
+            69173248  maximum resident set size
+events recorded:     2000
